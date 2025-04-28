@@ -1,16 +1,18 @@
 {
   "dependencies": {
+    "bullmq": "^5.51.1",
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.2",
-    "nodemon": "^3.1.10",
-     "morgan": "^1.10.0"
+    "nodemon": "^3.1.10"
   },
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js" , 
+    "dev:worker" : "nodemon --watch worker.js worker.js"
   },
   "author": "Mayank Joshi",
   "license": "MIT",
