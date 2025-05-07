@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "@langchain/community": "^0.3.41",
-    "@langchain/core": "^0.3.49",
-    "@langchain/google-genai": "^0.2.5",
+    "@langchain/core": "^0.3.54",
+    "@langchain/google-genai": "^0.2.6",
     "@langchain/qdrant": "^0.1.2",
     "@langchain/textsplitters": "^0.1.0",
     "bullmq": "^5.51.1",
