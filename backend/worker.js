@@ -46,3 +46,8 @@ const worker = new Worker('upload-file', async job => {
         port : '6379'
     }
   } );
+
+
+  trt\
+  dgddf
+  
