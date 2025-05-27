@@ -48,6 +48,5 @@ const worker = new Worker('upload-file', async job => {
   } );
 
 
-  trt\
-  dgddf
+  
   
